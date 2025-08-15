@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Nagasai Nattuva 👋
 
-<!--
-**nagasainattuva4/nagasainattuva4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **ReactJS Developer** with 4+ years of experience building fast, interactive, and user-friendly web applications.  
+🚀 Currently expanding into the **MERN stack** while creating **AI-powered projects** to bring smarter functionality to the web.  
+🤖 Passionate about blending web development with AI tools & APIs for real-world solutions.
 
-Here are some ideas to get you started:
+## 🌱 Currently Working On
+- Full-stack MERN applications
+- Integrating AI APIs (OpenAI, Hugging Face, etc.)
+- Deploying apps with Vercel, Render, and Railway
+- Preparing for technical interviews
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+**Frontend:** ReactJS, Redux, JavaScript (ES6+), TailwindCSS  
+**Backend (Learning):** Node.js, Express.js, MongoDB  
+**AI Integrations:** Chatbots, content generation, NLP APIs  
+**Tools:** Git, GitHub, VS Code, Postman
+
+## 📌 Goals
+- Transition from **frontend specialist** to **full-stack developer**
+- Build a portfolio of **real-world MERN + AI projects**
+- Stand out in interviews with unique, AI-enhanced apps
+
+---
+Made with ❤️ by **Nagasai Nattuva**
